@@ -1,0 +1,7 @@
+= T
+
+A text-based interface (TUI) to view and interact with TROW from your terminal.
+
+== License
+
+link:LICENSE[AGPL-3.0]
